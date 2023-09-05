@@ -3,7 +3,7 @@ Codecademy project to build a message generator program that outputs a new rando
 
 Run the code in node.js to view your potential NFL career!
 
-##Potential future improvements - change the stat presented depending on the position using if functionality
-e.g. 
+## Potential future improvements
+Change the stat presented depending on the position using if functionality e.g. 
 - "If you started training now you could be a New York Jets Quarterback with 4234 passing yards"
 - "If you started training now you could be a Dallas Cowboys Linebacker with 85 tackles"
